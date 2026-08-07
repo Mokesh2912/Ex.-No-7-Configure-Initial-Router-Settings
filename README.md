@@ -1,5 +1,7 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: _07/08/2026
+# NAME :MOKESH E
+# REG NO:212225060166__________
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -79,11 +81,16 @@ ________________________________________
 •	To save configuration: copy running-config startup-config, wr, copy startup-config flash<br>
 ________________________________________
 # Output (Attach Screenshots)
-•	Console connection to router<br>
-•	Running configuration before and after<br>
-•	MOTD banner display<br>
-•	Password prompts<br>
-•	Saved configuration in NVRAM and flash<br>
+•<img width="1582" height="667" alt="image" src="https://github.com/user-attachments/assets/ee9018e2-6168-4dfc-a0dd-24b5df439828" />
+
+•><img width="1632" height="696" alt="image" src="https://github.com/user-attachments/assets/87d8a3d9-6276-424c-bf19-04c3b6ccadcf" />
+
+•	<img width="1330" height="697" alt="image" src="https://github.com/user-attachments/assets/59cf1425-e67d-46a0-83bb-ec6e5b2ac003" />
+
+•	<img width="1307" height="682" alt="image" src="https://github.com/user-attachments/assets/c6d7131d-60f2-4319-8177-efe6b28e219c" />
+
+•	<img width="1215" height="687" alt="image" src="https://github.com/user-attachments/assets/98d916c9-eca9-4099-b352-d46018ccbc37" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
